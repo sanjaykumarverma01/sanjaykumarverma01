@@ -1,4 +1,4 @@
-[![MasterHead](https://https://dezinebrainz.com/images/web-design-gif.gif)]
+![MasterHead](https://dezinebrainz.com/images/web-design-gif.gif)
 <h1 align="center">Hi 👋, I'm Sanjaykumar Verma</h1>
 <h3 align="center">A passionate developer | Content Creator</h3>
 <img align="right" alt="Developer" width="400" src="https://i.pinimg.com/originals/f4/6c/4f/f46c4f0c2842ed57ac3670e35faaa411.gif"/>
