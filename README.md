@@ -8,8 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/iamsanjaykumar_" target="blank"><img src="https://img.shields.io/twitter/follow/iamsanjaykumar_?logo=twitter&style=for-the-badge" alt="iamsanjaykumar_" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://github.com/SK-WebDeveloper/Portfolio)
-
 - 🌱 I’m currently learning **Web Development Technologies**
 
 - 📫 How to reach me **vermasanjaykumar97@gmail.com**
