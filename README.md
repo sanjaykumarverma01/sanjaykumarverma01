@@ -1,17 +1,17 @@
 ![MasterHead](https://dezinebrainz.com/images/web-design-gif.gif)
-<h1 align="center">Hi 👋, I'm Sanjaykumar Verma</h1>
+<h2 align="center">Hi 👋, I'm Sanjaykumar Verma</h1>
 <h3 align="center">A passionate developer | Content Creator</h3>
 <img align="right" alt="Developer" width="400" src="https://jodhpurwebdesigner.com/wp-content/uploads/2019/08/web-development.gif"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sk-webdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="sk-webdeveloper" /> </p>
 
-## Connect with me:
+# Connect with me:
   <p align="left"> <a href="https://twitter.com/iamsanjaykumar_" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="iamsanjaykumar_" /></a> </p>
   <p align="left"> <a href="https://www.youtube.com/channel/UCVwdJKBVjjWv-yNDTm0pIKw" target="blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="iamsanjaykumar_" /></a> </p>
   <p align="left"> <a href="https://linkedin.com/in/sanjaykumar-verma-a73349219" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="sanjaykumar-verma-a73349219" /></a> </p>
 
-## Languages and Tools:
+# Languages and Tools:
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -30,6 +30,6 @@
   ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## Github Stat:
+# Github Stat:
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sanjaykumarverma01&show_icons=true&theme=radical" />
   <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaykumarverma01&layout=compact&theme=radical" />
