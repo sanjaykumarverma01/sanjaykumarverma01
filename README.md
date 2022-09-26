@@ -6,7 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sk-webdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="sk-webdeveloper" /> </p>
 
-<p align="left"> <a href="https://twitter.com/iamsanjaykumar_" target="blank"><img src="https://img.shields.io/twitter/follow/iamsanjaykumar_?logo=twitter&style=for-the-badge" alt="iamsanjaykumar_" /></a> </p>
+## Connect with me:
+  <p align="left"> <a href="https://twitter.com/iamsanjaykumar_" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="iamsanjaykumar_" /></a> </p>
+  
 
 - 🌱 I’m currently learning **Web Development Technologies**
 
