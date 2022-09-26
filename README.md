@@ -8,8 +8,8 @@
 
 ## Connect with me 🌍:
   <p align="left"> <a href="https://twitter.com/iamsanjaykumar_" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="iamsanjaykumar_" /></a> </p>
-  <p align="left"> <a href="https://www.youtube.com/channel/UCVwdJKBVjjWv-yNDTm0pIKw" target="blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="iamsanjaykumar_" /></a> </p>
   <p align="left"> <a href="https://linkedin.com/in/sanjaykumar-verma-a73349219" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="sanjaykumar-verma-a73349219" /></a> </p>
+  <p align="left"> <a href="https://www.youtube.com/channel/UCVwdJKBVjjWv-yNDTm0pIKw" target="blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="iamsanjaykumar_" /></a> </p>
 
 ## Languages and Tools 💻:
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -35,6 +35,6 @@
   ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
   ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
-## Github Stat 📊:
+## Github Stats 📊:
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sanjaykumarverma01&show_icons=true&theme=radical" />
   <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaykumarverma01&layout=compact&theme=radical" />
