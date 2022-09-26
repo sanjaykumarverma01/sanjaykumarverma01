@@ -33,3 +33,8 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/H/heroku-logo-B774A78667-seeklogo.com.png" alt="heroku" width="40" height="40"/> </a> &nbsp
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>  &nbsp
+
+## Github Stat :
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sanjaykumarverma01&show_icons=true&theme=radical" />
+  <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaykumarverma01&layout=compact&theme=radical" />
+  
