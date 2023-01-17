@@ -7,8 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sk-webdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="sk-webdeveloper" /> </p>
 
 ## Connect with me 🌍:
-  <p align="center"> <a href="https://linkedin.com/in/sanjaykumar-verma-a7334921" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="sanjaykumar-verma-a73349219" /></a> </p>
-  <p align="left"> <a href="https://sanjaykumar-portfolio.netlify.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio" /></a> </p>
+  <p align="center"> <a href="https://linkedin.com/in/sanjaykumar-verma-a73349219" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="sanjaykumar-verma-a73349219" /></a> </p>
+  <p align="left"> <a href="https://sanjaykuma-portfolio.netlify.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio" /></a> </p>
   <p align="right"> <a href="https://twitter.com/iamsanjaykumar_" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="iamsanjaykumar_" /></a> </p>
   <p align="center"> <a href="https://www.youtube.com/channel/UCVwdJKBVjjWv-yNDTm0pIKw" target="blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="iamsanjaykumar_" /></a> </p>
 
